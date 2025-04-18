@@ -1,0 +1,12 @@
+# Airport Management System - Required Python Libraries
+
+# Standard library modules like uuid, datetime, and json are already included in Python.
+# Only include external libraries if needed.
+
+# Currently, no external libraries are required.
+# But if in the future you use features like web framework or UI, you'll add them here.
+
+# Example (Uncomment if using later):
+# flask
+# streamlit
+# pandas
