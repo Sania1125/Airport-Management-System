@@ -1,0 +1,16 @@
+[
+    {
+        "flight_number": "PK303",
+        "origin": "Karachi",
+        "destination": "Lahore",
+        "capacity": 2,
+        "passenger_count": 2
+    },
+    {
+        "flight_number": "PK404",
+        "origin": "Islamabad",
+        "destination": "Quetta",
+        "capacity": 3,
+        "passenger_count": 0
+    }
+]
