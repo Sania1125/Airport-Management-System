@@ -5,13 +5,6 @@ No installation needed — just open the app and manage flights in real time.
 
 ---
 
-## ▶️ Launch App Online
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge.svg)](https://your-streamlit-app-url.streamlit.app)
-
-> Replace the link above with your actual Streamlit Cloud URL.
-
----
 
 ## ✈️ Features
 
